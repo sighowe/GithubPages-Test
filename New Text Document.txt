@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Test Clicker Game</h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p>Powered by github.io</p>
+</body>
+</html>
